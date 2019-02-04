@@ -1,4 +1,4 @@
-from myapp import __version__
+from grass_ng import __version__
 
 
 def test_version():
