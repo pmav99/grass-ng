@@ -1,3 +1,6 @@
-from .cmd1 import Cmd1Command
-from .cmd2 import Cmd2Command
-from .cmd3 import Cmd3Command
+from .batch_cmd import BatchCommand
+from .create_cmd import CreateCommand
+from .exec_cmd import ExecCommand
+from .gui_cmd import GUICommand
+from .tui_cmd import TUICommand
+
